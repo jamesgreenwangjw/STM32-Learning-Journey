@@ -1,0 +1,2 @@
+../Core/Src/at24c02.c:11:8:AT24C02_WriteOneByte	4
+../Core/Src/at24c02.c:41:8:AT24C02_ReadOneByte	4

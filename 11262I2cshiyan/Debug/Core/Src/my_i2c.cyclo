@@ -1,0 +1,6 @@
+../Core/Src/my_i2c.c:14:13:I2C_Delay	2
+../Core/Src/my_i2c.c:21:6:I2C_Start	1
+../Core/Src/my_i2c.c:33:6:I2C_Stop	1
+../Core/Src/my_i2c.c:46:9:I2C_WaitAck	3
+../Core/Src/my_i2c.c:78:6:I2C_SendByte	4
+../Core/Src/my_i2c.c:105:9:I2C_ReadByte	4
