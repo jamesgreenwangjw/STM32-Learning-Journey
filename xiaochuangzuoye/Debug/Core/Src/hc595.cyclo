@@ -1,0 +1,2 @@
+../Core/Src/hc595.c:18:6:HC595_WriteByte	3
+../Core/Src/hc595.c:36:6:HC595_Latch	1

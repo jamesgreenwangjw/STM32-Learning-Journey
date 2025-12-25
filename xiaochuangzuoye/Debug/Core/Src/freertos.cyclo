@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:132:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:196:6:StartTaskSensor	4
+../Core/Src/freertos.c:322:6:StartTaskSystem	3
+../Core/Src/freertos.c:358:6:StartTaskDisplay	3
+../Core/Src/freertos.c:401:6:StartTaskLed	16
+../Core/Src/freertos.c:495:6:StartTaskDog	1
