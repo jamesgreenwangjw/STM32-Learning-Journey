@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:122:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:183:6:StartTaskDrive	5
+../Core/Src/freertos.c:223:6:StartTaskDisplay	3
+../Core/Src/freertos.c:263:6:StartTaskLogic	5
+../Core/Src/freertos.c:314:6:StartTaskDog	1
